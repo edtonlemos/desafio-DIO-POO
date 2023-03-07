@@ -3,6 +3,8 @@ package br.com.dio.desafio.app;
 import br.com.dio.desafio.dominio.Curso;
 import br.com.dio.desafio.dominio.Mentoria;
 
+import java.net.InetAddress;
+import java.net.UnknownHostException;
 import java.time.LocalDate;
 
 public class Main {
